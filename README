@@ -3,12 +3,12 @@ TBD
 Empty recipe template:
 
 <META>
-title: 
-tags: 
-prep-time: 
-cook-time: 
-serves: 
-source: 
+title:
+tags:
+active-time:
+passive-time:
+serves:
+source:
 </META>
 <DESCRIPTION>
 

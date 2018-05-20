@@ -1,8 +1,8 @@
 <META>
 title: Beef Wellington
 tags: beef mushroom fancy
-prep-time: 1hr + overnight rest
-cook-time: 2hr
+active-time: 1hr + overnight rest
+passive-time: 2hr
 serves: 6-8
 source: https://www.seriouseats.com/recipes/2012/12/the-ultimate-beef-wellington-recipe.html https://skillet.lifehacker.com/will-it-sous-vide-a-most-glorious-beef-wellington-1790825718
 </META>
@@ -24,25 +24,25 @@ Adapted from Serious Eats and Skillet.Lifehacker.
 </NOTES>
 <INGREDIENTS>
 Beef tenderloin: center cut (aka Châteubriand), timmed of silverskin and fat, about 2 pounds
-Kosher salt: to taste 
+Kosher salt: to taste
 Black pepper: to taste, freshly ground
 
 Vegetable or canola oil: 2 tablespoons; 1/2 teaspoon, divided
 
 Prepared horseradish: 2 tablespoons
-Dijon mustard: 1 tablespoon 
+Dijon mustard: 1 tablespoon
 
 Mushrooms: 1 pound, cleaned, trimmed, and roughly chopped
 
-Unsalted butter: 4 tablespoons 
+Unsalted butter: 4 tablespoons
 
 Shallots: 2 medium, finely sliced (about 1/2 cup)
 Thyme leaves: 2 teaspoons, fresh, finely minced
 
 Cognac: 1/2 cup
 
-Heavy cream: 1/2 cup 
-Soy sauce: 2 teaspoons 
+Heavy cream: 1/2 cup
+Soy sauce: 2 teaspoons
 
 Fillo dough: 1 sheet
 Prosciutto di Parma: 1/4 pound, sliced paper thin
@@ -55,7 +55,7 @@ Frozen puff pastry: 14 ounces, thawed
 Egg: 1, beaten
 Coarse sea salt: to taste
 
-Chives: 1 bunch, finely minced 
+Chives: 1 bunch, finely minced
 </INGREDIENTS>
 <STEPS>
 Preheat sous-vide to 130°F
