@@ -1,9 +1,10 @@
 <META>
 title: Chocolate Fondue
 tags: dessert chocolate sweet
-prep-time: 5min
-cook-time: 5min
+active-time: 5min
+passive-time: 5min
 serves: 2
+images: image1.jpg
 </META>
 <DESCRIPTION>
 Classic chocolate fondue for dipping your favorite treats in.

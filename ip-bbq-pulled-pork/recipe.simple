@@ -1,9 +1,10 @@
 <META>
 title: Instant Pot BBQ Pulled Pork
 tags: bbq-sauce pork instant-pot dinner
-prep-time: 5m
-cook-time: 100m
+active-time: 5m
+passive-time: 100m
 serves: 4+
+images: image1.jpg
 </META>
 <DESCRIPTION>
 Quick and easy pulled pork using the instant pot.
@@ -22,7 +23,7 @@ Black peppercorn: to taste
 <NOTES>
 Can use beef broth or water instead of  chicken broth.
 
-You can use as much pork as you want without adjusting the other ingredients or cook time, as long as it fits 
+You can use as much pork as you want without adjusting the other ingredients or cook time, as long as it fits
 in the pot!
 </NOTES>
 <STEPS>
